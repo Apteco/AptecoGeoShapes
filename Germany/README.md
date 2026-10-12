@@ -4,7 +4,8 @@
 
 # Postleitzahl
 
-https://www.suche-postleitzahl.org/plz-karte-erstellen
+https://www.suche-postleitzahl.org/plz-karte-erstellen (website is deprecated)
+https://github.com/yetzt/postleitzahlen/releases
 
 # Zensus
 
